@@ -17,6 +17,6 @@ Caldrà afegir a **captures de pantalla** i a README.md la vostre resposta a l�
 
         Resposta d’exemple:
 ![nom_archivo](./img/01_introduccion_php.png)       
-[enllaç](file:///C:/xampp/htdocs/M07/Introducci-_PHP/person_Veronica/index.php)
+[enlace_php_introduccion](/file:///C:/xampp/htdocs/M07/Introducci-_PHP/person_Veronica/index.php/)
 
 
