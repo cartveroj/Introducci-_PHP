@@ -17,7 +17,7 @@ Caldrà afegir a **captures de pantalla** i a README.md la vostre resposta a l�
 
         Resposta d’exemple:
 ![img_introduccio_PHP](./img/introduccio_PHP.jpg)       
-[enlace_php_introduccion](/file:///C:/xampp/htdocs/M07/Introducci-_PHP/person_Veronica/index.php/)
+<!-- [enlace_php_introduccion](/file:///C:/xampp/htdocs/M07/Introducci-_PHP/person_Veronica/index.php/) -->
 [enlace_repositorio](https://github.com/cartveroj/Introducci-_PHP)
 
 
