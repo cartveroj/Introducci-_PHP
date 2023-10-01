@@ -1,2 +1,2 @@
 # Introducci-_PHP
-Primera actividad de PHP_prueba
+Repository about  exercises of PHP
